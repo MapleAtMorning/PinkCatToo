@@ -1,0 +1,40 @@
+{
+  "name": "pink-cat-too",
+  "displayName": "Pink Cat Too",
+  "description": "Modification of Pink Cat Boo by ftsamoyed",
+  "version": "0.0.1",
+  "publisher": "MapleAtMorning",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/MapleAtMorning/PinkCatToo"
+	},
+  "bugs": {
+		"url": "https://github.com/MapleAtMorning/PinkCatToo/issues"
+	},
+  "galleryBanner": {
+		"color": "#202330",
+		"theme": "dark"
+	},
+  "keywords": [
+		"theme",
+		"pink",
+		"cute",
+		"dark"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Cat Too",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Cat Too-color-theme.json"
+      }
+    ]
+  }
+}
