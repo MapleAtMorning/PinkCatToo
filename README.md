@@ -7,4 +7,4 @@ The bright pastel pink on white statusbar hurt my eyes alongside some html color
 This version closer matches Dark+ to also make it an easier transition from default VSC dark mode.
 
 ## Screenshot
-<img src="preview.png" alt="Visual Studio Code with the 'Pink Cat Too' theme applied" />
+<img src="https://raw.githubusercontent.com/mapleatmorning/Pink-Cat-Too/main/preview.png" alt="Visual Studio Code with the 'Pink Cat Too' theme applied" />
